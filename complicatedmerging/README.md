@@ -39,7 +39,7 @@ Finally I can use the pull command
 git pull https://github.com/ela-iwaszkiewicz/Symbiosis-Evolution-group-Jagiellonian-University-exercise.git master
 ```
 
-Now going back to the paster branch.
+Now going back to the master branch.
 
 ```
 git checkout master
