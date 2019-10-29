@@ -51,7 +51,7 @@ And merge the branch now that it has no unresolvable conflicts again it must inc
 git merge -m "merged" --no-ff ela-iwaszkiewicz-master
 ```
 
-And finalyy push this local version to the web copy of the repository using your guthub username and login. 
+And finally push this local version to the web copy of the repository using your guthub username and login. 
 
 ```
 git push origin master
