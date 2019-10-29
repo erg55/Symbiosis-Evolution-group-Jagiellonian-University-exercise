@@ -16,15 +16,15 @@ Here is a list of tasks to complete on this repository (Symbiosis Evolution grou
 
 **Hamed**
 
-	Display a bit of code (e.g, "echo hello world") into the cicada project readme.md 
+	Display a bit of code (e.g, "echo hello world") into the cicada project readme.md. 
 	
 **Mateusz**
 
-	Create a new text file with some text (real or fake protocol?) to the protocols subfolder 
+	Create a new text file with some text (real or fake protocol?) to the protocols subfolder. 
 
 **Monica**
 
-	Add a readme.md to the protocols folder. Have at least two headers and add a table of contents. 
+	Add text to the readme.md to the protocols folder. Have at least two headers and add a table of contents for easily clicking to those two headers. 
 	
 **Piotr**
 
@@ -32,6 +32,6 @@ Here is a list of tasks to complete on this repository (Symbiosis Evolution grou
 	
 **Sandra**
 
-	Make a Macrosteles subfolder with a readme.md document with a header saying Macrosteles in italics
+	Make a Macrosteles subfolder with a readme.md document with a header saying Macrosteles in italics.
 
 
